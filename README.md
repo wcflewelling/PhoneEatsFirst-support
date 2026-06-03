@@ -1,12 +1,11 @@
-# megusta-support
-# Me Gusta — Support
+# PhoneEatsFirst-support
 
-Me Gusta is the simplest way to share what you're eating with friends.
+Phone Eats First is the simplest way to share what you're eating with friends.
 If you need help, found a bug, or have a feature request, we'd love to hear from you.
 
 ## Contact
 
-📧 **Email:** wyattflew@gmail.com
+📧 **Email:** wyattflew@yahoo.com
 
 We reply to every message within 48 hours.
 
@@ -40,4 +39,4 @@ See our [Privacy Policy](./PRIVACY.md) for details on what we collect and how it
 
 ---
 
-*Me Gusta is built and maintained by one developer. Thanks for using it.*
+*Phone Eats First is built and maintained by one developer. Thanks for using it.*
