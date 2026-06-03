@@ -2,7 +2,7 @@
 
 **Last updated:** May 19, 2026
 
-Me Gusta ("we", "our", or "the app") is built and operated by Wyatt Flewelling. This Privacy Policy explains what information we collect when you use Me Gusta, how we use it, and the rights you have over your data.
+Phone Eats First ("we", "our", or "the app") is built and operated by Wyatt Flewelling. This Privacy Policy explains what information we collect when you use Me Gusta, how we use it, and the rights you have over your data.
 
 We believe privacy policies should be readable. If anything here is unclear, email us at **wyattflew@yahoo.com** and we'll explain.
 
