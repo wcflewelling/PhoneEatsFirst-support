@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last updated:** May 19, 2026
+**Last updated:** October 18, 2026
 
-Phone Eats First ("we", "our", or "the app") is built and operated by Wyatt Flewelling. This Privacy Policy explains what information we collect when you use Me Gusta, how we use it, and the rights you have over your data.
+Phone Eats First ("we", "our", or "the app") is built and operated by Wyatt Flewelling. This Privacy Policy explains what information we collect when you use it, how we use it, and the rights you have over your data.
 
 We believe privacy policies should be readable. If anything here is unclear, email us at **wyattflew@yahoo.com** and we'll explain.
 
@@ -48,7 +48,6 @@ We use your information only to:
 - Make the app work — show your posts, your friends' posts, and your profile.
 - Authenticate your device so only you can post under your account.
 - Enforce community safety (review reports, honor blocks).
-- Improve the app by fixing bugs we identify in anonymous error logs.
 
 We do **not** sell, rent, or share your personal data with advertisers, marketers, or any other third party for their own use.
 
@@ -67,7 +66,7 @@ Server locations may include the United States and other regions where Google op
 We share data only with services strictly required to run the app:
 
 - **Firebase (Google)** — hosts your account, posts, friends, and images.
-- **Apple StoreKit** — processes Me Gusta Pro in-app purchases. Apple's privacy policy applies to purchase data: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/).
+- **Apple StoreKit** — processes the one-time Pro in-app purchase. Apple's privacy policy applies to purchase data: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/).
 
 We do not share your data with any other party.
 
@@ -75,9 +74,10 @@ We do not share your data with any other party.
 
 ## 5. Public vs. private information
 
-When you use Me Gusta:
-- Your **username, posts, captions, meal types, and like counts** are visible to other signed-in users of the app. Treat anything you post as public to the Me Gusta community.
-- Your **friend list, blocked users, and friend requests** are private. Other users cannot see them.
+When you use Phone Eats First:
+- Your **username, posts, captions, meal types, and like counts** are visible to other signed-in users of the app. Treat anything you post as public to the Phone Eats First community.
+- Your **friend list** and the list of people **you've sent friend requests to** are stored on your profile and can be seen by other signed-in users of the app.
+- Your **blocked users** and **friend requests you've received** are private. Other users cannot see them.
 - Your **social handles**, if you add them, are visible to other users who view your profile.
 
 ---
@@ -102,7 +102,6 @@ If you live in the EU (GDPR), UK, California (CCPA), or another jurisdiction wit
 
 - **Your posts, profile, and friend connections** are kept until you delete them or delete your account.
 - **Reports** are kept for up to 12 months for moderation purposes.
-- **Anonymous error logs** are kept for up to 30 days.
 
 When you delete your account, all of the above is removed immediately, except where we are legally required to retain it (which is extremely rare and would only apply to law enforcement requests).
 
@@ -110,7 +109,7 @@ When you delete your account, all of the above is removed immediately, except wh
 
 ## 8. Children's privacy
 
-Me Gusta is not designed for or directed at children under 13 (or under 16 in the EU). We do not knowingly collect data from anyone under those ages. If you believe a child has created an account, please email **wyattflew@yahoo.com** and we will remove it immediately.
+Phone Eats First is not designed for or directed at children under 13 (or under 16 in the EU). We do not knowingly collect data from anyone under those ages. If you believe a child has created an account, please email **wyattflew@yahoo.com** and we will remove it immediately.
 
 ---
 
@@ -127,7 +126,7 @@ No system is perfectly secure, but we take reasonable precautions. If we ever ex
 
 ## 10. Changes to this policy
 
-If we update this Privacy Policy, we will update the "Last updated" date at the top of this page and, for material changes, notify you inside the app. Continued use of Me Gusta after a change means you accept the updated policy.
+If we update this Privacy Policy, we will update the "Last updated" date at the top of this page and, for material changes, notify you inside the app. Continued use of Phone Eats First after a change means you accept the updated policy.
 
 ---
 
@@ -141,4 +140,4 @@ We aim to reply within 48 hours.
 
 ---
 
-*Me Gusta is built and maintained by one developer. Thanks for trusting us with your meals.*
+*Phone Eats First is built and maintained by one developer. Thanks for trusting us with your meals.*
