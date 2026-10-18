@@ -66,7 +66,7 @@ Server locations may include the United States and other regions where Google op
 We share data only with services strictly required to run the app:
 
 - **Firebase (Google)** — hosts your account, posts, friends, and images.
-- **Apple App Store** — processes your purchase of the app. We don't receive your payment details. Apple's privacy policy applies to purchase data: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/).
+- **Apple App Store** — processes your purchase of the app and of the optional Pro upgrade. We don't receive your payment details. Apple's privacy policy applies to purchase data: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/).
 
 We do not share your data with any other party.
 

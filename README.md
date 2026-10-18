@@ -16,8 +16,8 @@ We reply to every message within 48 hours.
 ### How do I add friends?
 Tap the **Friends** tab at the bottom, then search for someone by username. Tap **Add** to send a friend request.
 
-### Is there a subscription or in-app purchase?
-No. Phone Eats First is a one-time paid download. Every feature, including unlimited posts and your full meal history, is included.
+### What do I get, and what does Pro add?
+Phone Eats First is a paid download with no subscription. The app lets you post **3 meals per day** and view **today's** meals. The optional **Pro** upgrade (one-time $2.99 in-app purchase) adds unlimited posts and your full meal history.
 
 ### How do I delete my account?
 Go to **Profile → ⋯ menu → Settings & Privacy → Delete Account**. This permanently removes your account, all posts, and friend connections.
